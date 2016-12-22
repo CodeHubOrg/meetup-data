@@ -1,0 +1,12 @@
+{
+  "name": "meetup_analysis",
+  "version": "1.0.0",
+  "description": "Using Meetup API to get most popular CodeHub topics",
+  "main": "getRankedTopics.js",
+  "scripts": {
+    "start": "node getRankedTopics"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
